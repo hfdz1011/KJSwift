@@ -1,0 +1,6 @@
+framework module KJSwift {
+  umbrella header "KJSwift-umbrella.h"
+
+  export *
+  module * { export * }
+}

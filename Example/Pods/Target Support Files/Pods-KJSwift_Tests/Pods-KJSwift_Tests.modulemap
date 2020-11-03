@@ -1,0 +1,6 @@
+framework module Pods_KJSwift_Tests {
+  umbrella header "Pods-KJSwift_Tests-umbrella.h"
+
+  export *
+  module * { export * }
+}

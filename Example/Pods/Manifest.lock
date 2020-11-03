@@ -1,0 +1,16 @@
+PODS:
+  - KJSwift (0.1.0)
+
+DEPENDENCIES:
+  - KJSwift (from `../`)
+
+EXTERNAL SOURCES:
+  KJSwift:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  KJSwift: fcfc832694165a3d3c87aeb1489846c33c670c18
+
+PODFILE CHECKSUM: 6e7da48569ab0432bc2481d97f73d8e04a7faba7
+
+COCOAPODS: 1.10.0.rc.1
